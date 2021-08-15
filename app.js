@@ -4,6 +4,7 @@ const exphbs = require('express-handlebars')
 const bodyParser = require('body-parser')
 
 const Todo = require('./models/todo')
+
 const app = express()
 
 mongoose.connect('mongodb://localhost/todo-list', { useNewUrlParser: true, useUnifiedTopology: true })
@@ -21,25 +22,32 @@ db.once('open', () => {
 app.engine('hbs', exphbs({ defaultLayout: 'main', extname: '.hbs' }))
 app.set('view engine', 'hbs')
 
-app.use(bodyParser.urlencoded({ extended : true}))
+app.use(bodyParser.urlencoded({ extended: true }))
+
 app.get('/', (req, res) => {
-    // get Todo data
     Todo.find()
         .lean()
-        .then(todos => res.render('index', { todos}))
-        .catch(error => console.log(error))
+        .then(todos => res.render('index', { todos }))
+        .catch(error => console.error(error))
 })
 
 app.get('/todos/new', (req, res) => {
     return res.render('new')
 })
 
-app.post('/todos', (req,res) =>{
+app.post('/todos', (req, res) => {
     const name = req.body.name
 
-    const todo = new Todo({ name }) // = name : name
-    return todo.save()
-        .then(()=> res.redirect('/'))
+    return Todo.create({ name })
+        .then(() => res.redirect('/'))
+        .catch(error => console.log(error))
+})
+
+app.get('/todos/:id', (req, res) => {
+    const id = req.params.id
+    return Todo.findById(id)
+        .lean()
+        .then((todo) => res.render('detail', { todo }))
         .catch(error => console.log(error))
 })
 
