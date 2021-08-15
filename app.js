@@ -13,6 +13,7 @@ db.on('error', () =>{
 db.once('open', () => {
     console.log('mongodb connected')
 })
+
 app.get('/', (req, res) => {
     res.send('hello world!')
 })
