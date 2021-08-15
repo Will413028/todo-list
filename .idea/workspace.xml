@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add create todo function">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add detail page">
+      <change afterPath="$PROJECT_DIR$/views/edit.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <updated>1628976234135</updated>
       <workItem from="1628976235350" duration="3308000" />
       <workItem from="1629029133276" duration="108000" />
-      <workItem from="1629029265748" duration="5424000" />
+      <workItem from="1629029265748" duration="5832000" />
     </task>
     <task id="LOCAL-00001" summary="Project init">
       <created>1628976642183</created>
@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629033962051</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add detail page">
+      <created>1629037166134</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1629037166134</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +144,7 @@
     <MESSAGE value="Add handlebars" />
     <MESSAGE value="Modify index.hbs" />
     <MESSAGE value="Add create todo function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add create todo function" />
+    <MESSAGE value="Add detail page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add detail page" />
   </component>
 </project>
