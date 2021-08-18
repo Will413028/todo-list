@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add gitignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add isDone param">
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/todo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/detail.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/detail.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/edit.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/edit.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +60,7 @@
       <workItem from="1629029133276" duration="108000" />
       <workItem from="1629029265748" duration="9596000" />
       <workItem from="1629046761026" duration="412000" />
-      <workItem from="1629317994966" duration="745000" />
+      <workItem from="1629317994966" duration="1062000" />
     </task>
     <task id="LOCAL-00001" summary="Project init">
       <created>1628976642183</created>
@@ -152,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629040313568</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add isDone param">
+      <created>1629318851504</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1629318851504</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +184,7 @@
     <MESSAGE value="Add edit function" />
     <MESSAGE value="Add delete function" />
     <MESSAGE value="Add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gitignore" />
+    <MESSAGE value="Add isDone param" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add isDone param" />
   </component>
 </project>
