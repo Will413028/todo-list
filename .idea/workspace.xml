@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Modify new page ui" />
+    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add bootswatch style">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/mongoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/mongoose.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +64,7 @@
       <workItem from="1629029265748" duration="9596000" />
       <workItem from="1629046761026" duration="412000" />
       <workItem from="1629317994966" duration="7066000" />
-      <workItem from="1630042680632" duration="1416000" />
+      <workItem from="1630042680632" duration="3634000" />
     </task>
     <task id="LOCAL-00001" summary="Project init">
       <created>1628976642183</created>
@@ -215,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630044079975</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add bootswatch style">
+      <created>1630044354181</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1630044354181</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +268,7 @@
     <MESSAGE value="Modify detail page ui" />
     <MESSAGE value="Modify edit page ui" />
     <MESSAGE value="Modify new page ui" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify new page ui" />
+    <MESSAGE value="Add bootswatch style" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add bootswatch style" />
   </component>
 </project>
