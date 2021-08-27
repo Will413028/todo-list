@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Heroku init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
       <workItem from="1629046761026" duration="412000" />
       <workItem from="1629317994966" duration="7066000" />
       <workItem from="1630042680632" duration="4213000" />
+      <workItem from="1630049069110" duration="708000" />
     </task>
     <task id="LOCAL-00001" summary="Project init">
       <created>1628976642183</created>
