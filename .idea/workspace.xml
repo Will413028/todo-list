@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Modify index page ui">
-      <change beforePath="$PROJECT_DIR$/views/detail.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/detail.hbs" afterDir="false" />
-    </list>
+    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Modify new page ui" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +59,7 @@
       <workItem from="1629029265748" duration="9596000" />
       <workItem from="1629046761026" duration="412000" />
       <workItem from="1629317994966" duration="7066000" />
-      <workItem from="1630042680632" duration="1103000" />
+      <workItem from="1630042680632" duration="1416000" />
     </task>
     <task id="LOCAL-00001" summary="Project init">
       <created>1628976642183</created>
@@ -196,7 +194,28 @@
       <option name="project" value="LOCAL" />
       <updated>1630043550184</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Modify detail page ui">
+      <created>1630043868717</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1630043868717</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Modify edit page ui">
+      <created>1630043982747</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1630043982747</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Modify new page ui">
+      <created>1630044079975</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1630044079975</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +253,9 @@
     <MESSAGE value="Modify mongoose config" />
     <MESSAGE value="Add bootstrap &amp; modify main.hbs" />
     <MESSAGE value="Modify index page ui" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify index page ui" />
+    <MESSAGE value="Modify detail page ui" />
+    <MESSAGE value="Modify edit page ui" />
+    <MESSAGE value="Modify new page ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify new page ui" />
   </component>
 </project>
