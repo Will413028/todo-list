@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Heroku init">
+    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add user router and login.hbs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/login.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/login.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,6 +276,7 @@
     <MESSAGE value="Modify new page ui" />
     <MESSAGE value="Add bootswatch style" />
     <MESSAGE value="Heroku init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Heroku init" />
+    <MESSAGE value="Add user router and login.hbs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add user router and login.hbs" />
   </component>
 </project>
