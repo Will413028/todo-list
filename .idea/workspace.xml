@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add user login feature via passport">
-      <change beforePath="$PROJECT_DIR$/routes/modules/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/modules/users.js" afterDir="false" />
+    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add logout feature">
+      <change afterPath="$PROJECT_DIR$/middleware/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631425758400</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add logout feature">
+      <created>1631426322902</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1631426322902</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +302,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add detail page" />
     <MESSAGE value="Add update todo function" />
     <MESSAGE value="Update todo function, add edit function" />
     <MESSAGE value="Add edit function" />
@@ -318,6 +326,7 @@
     <MESSAGE value="Add user registration feature" />
     <MESSAGE value="Add express-session" />
     <MESSAGE value="Add user login feature via passport" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add user login feature via passport" />
+    <MESSAGE value="Add logout feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add logout feature" />
   </component>
 </project>
