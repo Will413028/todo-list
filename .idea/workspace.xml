@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add user router and login.hbs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/login.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/login.hbs" afterDir="false" />
-    </list>
+    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add user login page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -233,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630047703938</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add user login page">
+      <created>1631411659260</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1631411659260</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +256,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Project init" />
     <MESSAGE value="Add mongoose" />
     <MESSAGE value="Add todoSeeder.js" />
     <MESSAGE value="Add handlebars" />
@@ -277,6 +280,7 @@
     <MESSAGE value="Add bootswatch style" />
     <MESSAGE value="Heroku init" />
     <MESSAGE value="Add user router and login.hbs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add user router and login.hbs" />
+    <MESSAGE value="Add user login page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add user login page" />
   </component>
 </project>
