@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add user registration feature">
+    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add express-session">
+      <change afterPath="$PROJECT_DIR$/config/passport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express-handlebars/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/.github/workflows/codeql-analysis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express-handlebars/.github/workflows/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express-handlebars/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express-handlebars/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express-handlebars/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express-handlebars/jest.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/lib/express-handlebars.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express-handlebars/lib/express-handlebars.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express-handlebars/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/spec/express-handlebars.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express-handlebars/spec/express-handlebars.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/spec/fixtures/layouts/main-latin1.handlebars" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/spec/fixtures/partials/partial-latin1.handlebars" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/spec/fixtures/render-latin1.handlebars" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express-handlebars/spec/fixtures/templates/template-latin1.handlebars" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/modules/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/modules/users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631414170152</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Add express-session">
+      <created>1631416392358</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1631416392358</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +292,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Modify index.hbs" />
     <MESSAGE value="Add create todo function" />
     <MESSAGE value="Add detail page" />
     <MESSAGE value="Add update todo function" />
@@ -321,6 +316,7 @@
     <MESSAGE value="Add register page" />
     <MESSAGE value="Add user Schema" />
     <MESSAGE value="Add user registration feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add user registration feature" />
+    <MESSAGE value="Add express-session" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add express-session" />
   </component>
 </project>
