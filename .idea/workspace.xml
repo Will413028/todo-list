@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add express-session">
-      <change afterPath="$PROJECT_DIR$/config/passport.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add user login feature via passport">
       <change beforePath="$PROJECT_DIR$/routes/modules/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/modules/users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -273,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631416392358</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Add user login feature via passport">
+      <created>1631425758400</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1631425758400</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +293,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add create todo function" />
     <MESSAGE value="Add detail page" />
     <MESSAGE value="Add update todo function" />
     <MESSAGE value="Update todo function, add edit function" />
@@ -317,6 +317,7 @@
     <MESSAGE value="Add user Schema" />
     <MESSAGE value="Add user registration feature" />
     <MESSAGE value="Add express-session" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add express-session" />
+    <MESSAGE value="Add user login feature via passport" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add user login feature via passport" />
   </component>
 </project>
