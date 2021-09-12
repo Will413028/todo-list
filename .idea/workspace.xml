@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Heroku init">
-      <change afterPath="$PROJECT_DIR$/routes/modules/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/login.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mpath/bench.log" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mpath/bench.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mquery/test/collection/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mquery/test/collection/browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mquery/test/collection/mongo.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mquery/test/collection/mongo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +62,7 @@
       <workItem from="1629046761026" duration="412000" />
       <workItem from="1629317994966" duration="7066000" />
       <workItem from="1630042680632" duration="4213000" />
-      <workItem from="1630048898870" duration="169000" />
-      <workItem from="1631410351771" duration="317000" />
+      <workItem from="1630049069110" duration="1299000" />
     </task>
     <task id="LOCAL-00001" summary="Project init">
       <created>1628976642183</created>
