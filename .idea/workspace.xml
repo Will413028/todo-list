@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add facebook login &amp; dotenv">
+    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Update todoSeeder">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/seeds/todoSeeder.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/seeds/todoSeeder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -332,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631519368724</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Update todoSeeder">
+      <created>1631523614009</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1631523614009</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,7 +358,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add method-override" />
     <MESSAGE value="Modify express routes" />
     <MESSAGE value="Modify mongoose config" />
     <MESSAGE value="Add bootstrap &amp; modify main.hbs" />
@@ -376,6 +382,7 @@
     <MESSAGE value="Add bcrypt package" />
     <MESSAGE value="Add bcrypt to login route" />
     <MESSAGE value="Add facebook login &amp; dotenv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add facebook login &amp; dotenv" />
+    <MESSAGE value="Update todoSeeder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update todoSeeder" />
   </component>
 </project>
