@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add user authentication in todo and home routers">
+    <list default="true" id="8d219e9c-fcb9-4092-a1d1-7a751ad106d5" name="Default Changelist" comment="Add isAuthenticated to display different view templates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/mongoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/mongoose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/todo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/modules/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/modules/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/modules/todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/modules/todos.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/layouts/main.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/main.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631427282726</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Add isAuthenticated to display different view templates">
+      <created>1631429555235</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1631429555235</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +319,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update todo function, add edit function" />
     <MESSAGE value="Add edit function" />
     <MESSAGE value="Add delete function" />
     <MESSAGE value="Add gitignore" />
@@ -335,6 +343,7 @@
     <MESSAGE value="Add user login feature via passport" />
     <MESSAGE value="Add logout feature" />
     <MESSAGE value="Add user authentication in todo and home routers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add user authentication in todo and home routers" />
+    <MESSAGE value="Add isAuthenticated to display different view templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add isAuthenticated to display different view templates" />
   </component>
 </project>
